@@ -1,5 +1,5 @@
 # PoseTimer
-An app built on the original PoseFinder app by Apple.
+An app that detects if you are sitting or standing and sets a timer to it.
 This app is able to:
 1. detect and count the number of people in frame and display on screen
 2. detect and count the number of people sitting or standing and display on screen
@@ -20,3 +20,5 @@ perhaps you wish to track how much time you are sitting or standing while workin
 I may be uploading more improved versions of it.
 
 A limitation of PoseFinder is that it cannot detect a person if their back is facing the camera
+
+This app is built on the original PoseFinder app by Apple.
